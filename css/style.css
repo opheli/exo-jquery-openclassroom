@@ -1,0 +1,19 @@
+#erreur {
+    font-size: xx-large;
+}
+
+
+.green {
+    background-color: pink ;
+    border: 2px solid green;
+}
+
+.start {
+    background-color: yellow ;
+    border: 1px solid black;
+}
+
+.red {
+    background-color: red ;
+    border: 2px solid red;
+}
