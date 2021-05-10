@@ -4,9 +4,14 @@
 
 
 .green {
-    background-color: pink ;
+    color: green ;
     border: 2px solid green;
 }
+
+.greenTwo {
+    background-color: green ;
+}
+
 
 .start {
     background-color: yellow ;
@@ -14,6 +19,11 @@
 }
 
 .red {
-    background-color: red ;
+    color: red ;
     border: 2px solid red;
 }
+
+.redTwo {
+    background-color: green ;
+}
+
